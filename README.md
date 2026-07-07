@@ -7,6 +7,6 @@
 - `interviews.html`: 인터뷰 모아보기
 - `contact-mail.html`: 컨택메일 가이드라인
 - `sigape.css`: 공통 스타일
-- `assets/logo.png`: 파람 로고
+- `logo.png`: 파람 로고
 
 GitHub Pages 설정은 저장소 Settings > Pages에서 Branch를 `main`, Folder를 `/root`로 선택하면 됩니다.
